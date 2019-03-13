@@ -1,0 +1,5 @@
+<link rel="stylesheet" href="https://kendo.cdn.telerik.com/2019.1.115/styles/kendo.common.min.css" />
+
+<link rel="stylesheet" href="https://kendo.cdn.telerik.com/2019.1.115/styles/kendo.silver.min.css" />
+
+<script src="https://kendo.cdn.telerik.com/2019.1.115/js/kendo.all.min.js"></script>
